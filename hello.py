@@ -1,6 +1,6 @@
 a=int(input())
 b=int(input())
 if(a>b):
-    print("maximum")
+    print("a is maximum")
 else:
-    print("minimum")
+    print("b is minimum")
