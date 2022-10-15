@@ -2,8 +2,9 @@
 # sample request for just for displaying pull request
 hacktoberfest-git-session by akhil
 
-author of this change is Tathya Kapadia
+author of this change is Ashwin
 
-Changes are done: Swaroopa
+
+Changes are done: Ashwin
 
 #### Hacktoberfest 2022
