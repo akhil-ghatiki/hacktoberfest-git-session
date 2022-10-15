@@ -1,0 +1,1 @@
+print("no chicken during lunch")
