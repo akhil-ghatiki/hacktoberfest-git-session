@@ -7,3 +7,6 @@ author of this change is Tathya Kapadia
 Changes are done: Swaroopa
 
 #### Hacktoberfest 2022
+
+## Participants Names:
+Name: G R Akhil Teja - Hyderabad
