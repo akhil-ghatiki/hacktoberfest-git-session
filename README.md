@@ -7,3 +7,8 @@ author of this change is Tathya Kapadia
 Changes are done: Swaroopa
 
 #### Hacktoberfest 2022
+
+
+// this update for the day
+
+### The biriyani was sober 
